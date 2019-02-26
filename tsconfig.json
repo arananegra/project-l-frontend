@@ -6,8 +6,5 @@
       "strict": false,
       "noUnusedLocals": true,
       "noUnusedParameters": true,
-      "types": [
-        "jest"
-      ]
     }
   }
